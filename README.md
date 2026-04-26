@@ -8,7 +8,7 @@ C言語の勉強用サンプルプログラム集
 
 
 
-\[鹿取祐二【組み込みC言語チャンネル】](https://www.youtube.com/@鹿取祐二)
+https://www.youtube.com/@鹿取祐二
 
 
 
