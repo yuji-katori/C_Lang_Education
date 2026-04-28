@@ -14,4 +14,5 @@ int total = 0;
 				total += *pc;
 
 	printf("Total value is %d.\n", total );
+	__nop( );
 }
